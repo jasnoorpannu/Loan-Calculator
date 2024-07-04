@@ -2,7 +2,7 @@
 
 ### Project Introduction
 
-Welcome to the **EMI Calculation Project**! This project, developed in Java, provides a comprehensive tool for calculating and managing loan repayments. It is designed to assist users in understanding their financial commitments by computing the Equated Monthly Installment (EMI) and determining the loan tenure based on various payment frequencies.
+Welcome to the **EMI Calculation Project**! This project, developed in Java, provides a comprehensive tool for calculating and managing loan repayments. It is designed to assist users in understanding their financial commitments by computing the Equated Monthly Installment (EMI) with a payment schedule and determining the loan tenure based on various payment frequencies.
 
 ### Features
 
@@ -66,10 +66,7 @@ Welcome to the **EMI Calculation Project**! This project, developed in Java, pro
 
 ### Conclusion
 
-This **LoanCalculator** project is a powerful tool for anyone needing to understand their loan repayment obligations. It supports various payment frequencies and provides detailed insights into both the amount and schedule of payments. Whether you are planning to take a loan or managing an existing one, this project will help you make informed financial decisions.
+This **LoanCalculator** project is a powerful tool for anyone needing to understand their loan repayment obligations. It supports various payment frequencies and provides detailed insights into both the amount and schedule of payments. Whether you are planning to take a loan or managing an existing one, this project will help you make informed financial decisions. It also goes the other way round, you can enter what amount of EMI you want to pay and it will tell you how much time would it take for you to pay the principal.
 
 Enjoy exploring your financial possibilities with the LoanCalculator!
 
----
-
-Feel free to modify and expand this introduction to better suit your project's needs and context.
