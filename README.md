@@ -53,14 +53,13 @@ Welcome to the **EMI Calculation Project**! This project, developed in Java, pro
 - **EMI Calculation Formula**:
   The EMI is calculated using the formula:
   
-   \[
-  EMI = \frac{P \times r \times (1 + r)^n}{(1 + r)^n - 1}
-  \]
+  EMI = [ P * r * (1 + r)^n ] / [ (1 + r)^n - 1 ]
+
   
   Where:
-  - \(P\) = Principal loan amount
-  - \(r\) = Periodic interest rate
-  - \(n\) = Number of payments
+  - (P) = Principal loan amount
+  - (r) = Periodic interest rate
+  - (n) = Number of payments
 
 - **Payment Schedule**:
   Each payment schedule details the interest and principal components of each payment, helping users track how much of their payment goes towards interest and how much towards reducing the principal.
