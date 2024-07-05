@@ -6,24 +6,21 @@ Welcome to the **EMI Calculation Project**! This project, developed in Java, pro
 
 ### Features
 
-1. **Date Initialization**:
-   - The program begins by displaying the current date, formatted in `dd-MM-yyyy`, ensuring users have a time-stamped reference for their calculations.
-
-2. **Task Selection**:
+1. **Task Selection**:
    - Users can choose between calculating the EMI or determining the loan tenure based on a fixed EMI. This provides flexibility for both prospective and current borrowers.
 
-3. **Payment Frequency Options**:
+2. **Payment Frequency Options**:
    - The application supports multiple payment frequencies, including:
      - **Monthly**
      - **Biweekly**
      - **Weekly**
      - **Semi-Monthly**
 
-4. **EMI Calculation**:
+3. **EMI Calculation**:
    - Depending on the user's choice, the program calculates the EMI for the selected frequency. It uses the principal amount, annual interest rate, and loan tenure to derive the periodic payments.
    - It offers detailed payment schedules, breaking down each payment into interest and principal components, and showing the remaining principal after each payment.
 
-5. **Loan Tenure Calculation**:
+4. **Loan Tenure Calculation**:
    - For users who know their EMI and need to determine the loan tenure, the program calculates the approximate number of years required to repay the loan based on the provided EMI and payment frequency.
 
 ### Detailed Walkthrough
